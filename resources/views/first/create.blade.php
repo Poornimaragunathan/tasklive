@@ -14,7 +14,7 @@
                         <div class="card">
                             <div class="card-header">
                                 <h4 class="card-title">Add Tasks
-                                    <a href="{{url('first')}}" class="btn btn-primary float-end">Back</a>
+                                    <a href="{{url('/')}}" class="btn btn-primary float-end">Back</a>
                                 </h4>                                                                                               
                             </div>
                             <div class="card-body">
